@@ -1,0 +1,12 @@
+Installation instructions for jqWidgets framework
+
+READ is dependent on the jqwidget version locate in this (dependencies/jqwidget)
+directory in a zip file called jqwidget.zip. READ has 2 files that require the
+zip file be expanded in the webservice document root. You should unzip the entire
+set which should create a sub-directory 'jqwidget'.
+
+Should you need to install at a different location, READ has 2 files where you
+will need to change the path reference for these files. First file is index.php
+located in the root of READ. The second is located in editors/utilityUI/entityEditor.php
+
+This framework has a dependency on jQuery's' jquery-1.11.0.min.js
