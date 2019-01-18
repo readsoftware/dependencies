@@ -7,5 +7,5 @@ jqWidgets -
 
 jQuery -
   a document element library
-  the use of jqwidget ver 3.7 requires jquery-1.11.0.min.js
+  the use of jqwidget ver 5.3.0 requires jquery-1.11.0.min.js
   READ assumes /jquery/jquery-1.11.0.min.js as the path to the jquery implementation
